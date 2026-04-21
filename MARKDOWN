@@ -42,5 +42,6 @@ my-portfolio/
  contact.html  
  README.md  
 
----
- 
+## Author
+
+**Pranali Shende**
